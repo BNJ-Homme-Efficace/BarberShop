@@ -1,5 +1,5 @@
 fx_version 'adamant'
-game 'gta5'
+games { 'gta5' };
 
 client_scripts {
     "src/RMenu.lua",
