@@ -7,4 +7,4 @@ My Shop https://discord.gg/4GHz4QfZtT
 
 ↓ Information ↓
 
-J'ai retrouvé un petit script que j'avais créé pas simple ennui... J'ai donc trouvé sympa de le partager gratuitement :)
+J'ai retrouvé un petit script que j'avais créé par simple ennui... J'ai donc trouvé sympa de le partager gratuitement :)
